@@ -2,6 +2,6 @@
 
 ### Here we compile the student alcohol comsumption data from 
 
-Team members:
+
 
 
