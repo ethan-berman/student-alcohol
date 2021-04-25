@@ -3,7 +3,7 @@
 ### Here we compile the student alcohol comsumption data from
 
 Team Members:
-* [Bella](bella)
+* [Bella Yang](bella)
 * [Max Harvey](Max)
 * [Ethan Berman](ethan)
 * [Callie](callie)
