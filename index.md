@@ -3,6 +3,6 @@
 ### Here we compile the student alcohol comsumption data from (https://www.kaggle.com/uciml/student-alcohol-consumption).
 
 
-### Markdown
+Team members:
+* Bella Yang
 
-```markdown
