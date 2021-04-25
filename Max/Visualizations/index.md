@@ -2,8 +2,4 @@
 
 ### Here we compile the student alcohol comsumption data from 
 
-Team Members:
-* Bella 
-* [Max Harvey](Max)
-
-
+# Here are some of the Visualizations I have created when investigating this dataset:
