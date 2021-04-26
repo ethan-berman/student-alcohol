@@ -12,3 +12,5 @@ Here is a plotly visualization for alcohol, total per capita(15+) consumption by
 {% include_relative Visualization/alcohol.html %}
 
 ## Other research:
+
+This visualization from [CACTC](https://www.cortlandareactc.org/post/teen-drinking-in-europe-vs-the-united-states#:~:text=While%20only%20about%2033%20out,days%20in%20Denmark%20and%20Austria.) shows that teen drinking rate in Europe Vs. the United States.
