@@ -1,6 +1,5 @@
 # Bella's Webpage
 
-### Here we compile the student alcohol comsumption data from [Recorded alcohol per capita consumption](https://apps.who.int/gho/data/node.main.A1039?lang=en).
 
 ### Project: 
 
