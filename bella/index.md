@@ -10,3 +10,5 @@ I am interested in the per capita consumption of alcohol for 15+ people in the w
 
 Here is a plotly visualization for alcohol, total per capita(15+) consumption by country 2018.
 {% include_relative Visualization/alcohol.html %}
+
+## Other research:
