@@ -1,6 +1,6 @@
 # Student Alcohol Consumption Data Visualization
 
-### Here we compile the student alcohol comsumption data from [Recorded alcohol per capita consumption](https://apps.who.int/gho/data/node.main.A1039?lang=en).
+### Here we compile the student alcohol comsumption data from [Recorded alcohol per capita consumption](https://www.kaggle.com/uciml/student-alcohol-consumption).
 
 Team Members:
 * [Bella Yang](bella)
