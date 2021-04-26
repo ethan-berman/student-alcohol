@@ -7,6 +7,6 @@ I am interested in examining the different drinking and drug habits of people in
 ## Visualizations:
 [Student Alcohol Consumption Visual](Visualizations)
 
-## Other Interesting Masterial:
+## Other Interesting Material:
 Here is a graph that shows students and alcohol trends between 1980 and 2011
 ![Student Alcohol Consumption](white03.png)
