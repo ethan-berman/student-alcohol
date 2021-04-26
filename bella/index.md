@@ -4,4 +4,4 @@
 
 ### These are pages specific to Bella's part of the project.
 
-Here is a plotly 
+Here is a plotly visualization for alcohol, total per capita(15+) consumption by country.
