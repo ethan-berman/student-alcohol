@@ -1,4 +1,4 @@
-# Student Alcohol Consumption Data Visualization Set
+# Student Alcohol Consumption Data Visualization
 
 ### Here we compile the student alcohol comsumption data from
 
