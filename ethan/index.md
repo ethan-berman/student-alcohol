@@ -7,4 +7,5 @@ This histogram compares the relative weekly alcohol consumption of students whos
 {% include_relative Visualizations/plot.html %}
 ### Other Research
 This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on.children.s.behavior) shows that children whose parents are separated have higher behavioral problem scores.
+
 ![Visual](Visualizations/childbehavioral.jpeg)
