@@ -3,7 +3,7 @@
 ### Here we compile the student alcohol comsumption data from different datasets and other interesting sources.
 
 ## Max's Webpage:
-I am interested in examining the different drinking and drug habits of people in different countries in comparison to the U.S. 
+I am interested in examining the role of drinking and academic and family life influence in college. To start the examinations I am going to use a student-alcohol consumption dataset that took place in [Portugal](https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-por.csv). My first major investigation is going to look into the correlations between drinking and family home-life. 
 ## Visualizations:
 [Student Alcohol Consumption Visual](Visualizations)
 
