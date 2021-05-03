@@ -28,4 +28,4 @@ This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on
 ![Visual](Visualizations/childbehavioral.jpeg)
 
 This [article](https://www.verywellmind.com/the-effects-of-parental-alcoholism-on-children-67233) talks about the many impacts that parental alcoholism can have on children
-![Picture](https://www.verywellmind.com/thmb/YzKWCkHrK3YBY4QNUG7li_1884o=/768x0/filters:no_upscale())
+![Picture](Visualizations/parent_alc.png)
