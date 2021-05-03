@@ -4,6 +4,6 @@
 
 Team Members:
 * [Bella Yang](bella)
-* [Max Harvey](Max)
+* I will be investigating student motivation and family life and its relationship to alcohol, here is my link: [Max Harvey](Max) 
 * [Ethan Berman](ethan)
 * [Callie](callie)
