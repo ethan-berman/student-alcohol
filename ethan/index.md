@@ -19,8 +19,13 @@ This histogram, for each group, shows the relative percentages of those in that 
 {% include_relative Visualizations/higher.html %}
 
 
+## Coming Soon:
+In the final week of class, I want to find another data set that provides more information connecting the role of the parents on child alcohol use.  I am also curious about family history for alcoholism, and how that may affect the academic outcomes of their children.  For example, it appears that as high school students use alcohol more, they are less likely to want to go to college.  Going further, I am curious if those students who are using alcohol at higher rates have a family history of alcoholism, or if there are other factors that led to their situation.
 
 ## Other Research
 This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on.children.s.behavior) shows that children whose parents are separated have higher behavioral problem scores.
 
 ![Visual](Visualizations/childbehavioral.jpeg)
+
+This [article](https://www.verywellmind.com/the-effects-of-parental-alcoholism-on-children-67233) talks about the many impacts that parental alcoholism can have on children
+![Picture](https://www.verywellmind.com/thmb/YzKWCkHrK3YBY4QNUG7li_1884o=/768x0/filters:no_upscale())
