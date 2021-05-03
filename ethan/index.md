@@ -16,7 +16,7 @@ This histogram shows the number of absences by each group of alcohol use.  Somew
 
 ### Effect on Future Goals
 This histogram, for each group, shows the relative percentages of those in that category who do wish to pursue higher learning, and those who do not.  I expected to see a decrease in higher learning aspirations as alcohol consumption increased, and I was not surprised to see this relationship reflected in the data.
-{$ include_relative Visualizations/higher.html %}
+{% include_relative Visualizations/higher.html %}
 
 
 
