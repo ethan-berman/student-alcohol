@@ -12,11 +12,11 @@ This histogram compares the relative weekly alcohol consumption of students whos
 
 ### Effect on School Attendance
 This histogram shows the number of absences by each group of alcohol use.  Somewhat surprisingly, there are more absences in the 4/5 alcohol group than the 5/5 alcohol group, which could be a fact of there simply being more people that can be classified as 4/5 than 5/5.  There are 51 students in the 4/5 category, while there are only 28 in the 5/5 group.
-{% include_relative Visualizations/absences.html}
+{% include_relative Visualizations/absences.html %}
 
 ### Effect on Future Goals
 This histogram, for each group, shows the relative percentages of those in that category who do wish to pursue higher learning, and those who do not.  I expected to see a decrease in higher learning aspirations as alcohol consumption increased, and I was not surprised to see this relationship reflected in the data.
-{$ include_relative Visualizations/higher.html}
+{$ include_relative Visualizations/higher.html %}
 
 
 
