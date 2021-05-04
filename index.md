@@ -3,7 +3,7 @@
 ### Here we compile the student alcohol comsumption data from [Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption).
 
 Team Members:
-* I will be investigating the alcohol consumption in European region and the correlation between school perfomance and the student alcohol comsumption in Portugal. Here is my link: [Bella Yang](bella)
+* I will be investigating the alcohol consumption in European region and the correlation between school perfomance and the student alcohol comsumption in Portugal.      Here is my link: [Bella Yang](bella)
 * I will be investigating student motivation and family life and its relationship to alcohol, here is my link: [Max Harvey](Max) 
 * [Ethan Berman](ethan)
 * [Callie](callie)
