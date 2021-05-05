@@ -29,14 +29,22 @@ There are several challenges to overcome when working with his data. I summarize
 Here is a plotly visualization for alcohol, total per capita(15+) consumption by country 2018.
 {% include_relative Visualization/alcohol.html %}
 
+The graph clrealy shows that European are has highes alcohol consumption and middle east area has the lowest alcohol consumption. European area has low drinking-age limitation, which makes their citizen start drink at teen. I saw the European area closer to look for their alcohol consumption information and changes over time with visualizations below. 
+
 ### European country alcohol consumption.
 
 Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 {% include_relative Visualization/europe.html %}
 
+We can know that the range of alcohol consumption in Europe is pretty large. Like Norway, iceland, and Sweden has lower alcohol consuption, which mathches with the reseach I did. 
+
 ### Time series of Eruopean regrion alcohol consumption. 
 
+The time series line graph shows the alcohol consumption changes over time. 
 {% include_relative Visualization/time.html %}
+
+From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that make their alcohol start decreasing. 
+
 
 ## Other research
 
