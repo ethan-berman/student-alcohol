@@ -9,7 +9,7 @@ I am interested in the per capita consumption of alcohol for 15+ people in the w
 * Here I compile the world alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main.A1039?lang=en)
 The data recoreded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in litters by countries and each beverage types. 
 
-*Here I compile the European region alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
+* Here I compile the European region alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
 The data recorded alcohol per capita consimption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It caontains the column of alcohol per capita consumption in litters by European countries abd each beverage types. 
 
 ## Visualization:
@@ -21,7 +21,7 @@ Here is a plotly visualization for alcohol, total per capita(15+) consumption by
 
 ### European Country alcohol consumption.
 
-Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
+Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. {% include_relative Visualization/European region.html %}
 
 ## Other research:
 
