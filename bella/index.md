@@ -21,7 +21,7 @@ Here is a plotly visualization for alcohol, total per capita(15+) consumption by
 
 ### European Country alcohol consumption.
 
-Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. {% include_relative Visualization/European region.html %} 
+Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 
 ## Other research:
 
