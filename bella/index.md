@@ -43,8 +43,12 @@ We can know that the range of alcohol consumption in Europe is pretty large. Lik
 The time series line graph shows the alcohol consumption changes over time. 
 {% include_relative Visualization/time.html %}
 
-From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that make their alcohol start decreasing. 
+From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that makes their alcohol consumption start decreasing. 
 
+## Comming soon
+
+In the final week of the class, I will focus on our Portugal student alcohol consumption data and figure out the correlation between school performan and alcohol consumption. And my hypothesis for this part is that the success of school is negatively correlative with alcohol consumption. 
+Additional, I will do some research and figure out why the alcohol consuption decreased from 2007. Has the European government issued any policy and did the price change of alcohol have an impact on it?
 
 ## Other research
 
