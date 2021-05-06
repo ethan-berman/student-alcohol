@@ -9,6 +9,7 @@ Team Members:
 * [Callie](callie)
 
 # Datasets:
-For this project we will all be majorly looking at the Portugal Student Alcohol Consumption dataset linked [here](https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-por.csv). This data set takes in information from a portugese secondary school, where math and Portugese classes were taught. 
+For this project we will all be majorly looking at the Portugal Student Alcohol Consumption dataset linked [here](https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-por.csv). The data were obtained in a survey of students math and portuguese language courses in Portugal secondary school. It contains a lot of interesting social, gender and study information about students. There are 33 columns which include school name, sex, age, parents and family information and school performance status.
+
 # Information being Explored:
  With this, we are going to be investigating many different ideas.  We will be investigating student-homelife impacts, socioeconomic status and gender, course motivation, the European Alcohol consumption per capita by time, and also academic contributions in correlation with alcohol.
