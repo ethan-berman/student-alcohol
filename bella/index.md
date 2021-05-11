@@ -2,7 +2,13 @@
 
 ## Statement of interest
 
-I am interested in the per capita consumption of alcohol for 15+ people in the world. Our data was collected of the consumption of 15-22 year-old students in two secondary schools in Portugal. I feel that the legal drinking age in Europe is relatively low, so I want to see which countries in the world have higher per capita consumption of alcohol.
+Drinking is a controversial issue. Drinking in moderation is good for your health, but excessive drinking can harm your health. I live in China, and the legal age for buying alcohol in China is 18 years old, but in fact many young people younger than 18 have tried Start drinking. Few places will check ID.
+
+When I came to the United States, I felt that the United States attaches great importance to the legal drinking age. Whether in restaurants or supermarkets, the date of birth on the ID will be strictly checked. This is a good way to control drinking.
+
+My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends, and has headaches and vomiting symptoms. But he has no way to change his behavior, because he has never been very drunk. He started drinking at a young age. Until one time he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
+
+This makes me interested in the amount of alcohol purchased in the world. I want to study the relationship between the average alcohol purchase in a country and the legal drinking age, national GDP, gender, and what is the world's death rate due to alcohol.
 
 ## Dataset
 * Here I compile the world alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main.A1039?lang=en)
