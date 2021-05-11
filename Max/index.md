@@ -36,6 +36,7 @@ As you can see with these results there also does seem to be a correlation betwe
 With all of this information, we definitely can see trends of stress and social influence that effect the amount of drinking that students. It is hard to fully deduct reasoning, but it does seem that there is correlation between motivation, romantic life, and family relations that can relate to the amount students drink
 
 # Other Interesting Material:
+Here is a link to my [Notebook](Student-Alcohol-Consumption.ipynb)
 Here is a graph that shows students and alcohol trends between 1980 and 2011
 ![Student Alcohol Consumption](white03.png)
 
