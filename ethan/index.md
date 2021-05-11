@@ -4,6 +4,10 @@
 I am interested in looking at how family dynamics impact student alcohol consumption.  Our dataset has information about the family, including the education and job experience of both parents.
 
 Additionally, I am interested in learning more about how the use of alcohol affects an individual and the various aspects of their lives.  I expect there to be a negative effect of alcohol use on various academic outputs, as alcohol is generally considered to be bad for productivity.
+### Datasets:
+![Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption)
+![Global Alcohol Consumption](https://data.world/fivethirtyeight/alcohol-consumption)
+
 ## Visualizations:
 
 ### Parental Separation Vs. Cohabitation.
