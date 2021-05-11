@@ -9,7 +9,7 @@ I am interested in examining the role of drinking and academic motivation. To st
 
 # Dataset Trajectory and Information:
 So far what I have done to investigate this dataset, is I separated it between two areas where I think we can find out a lot about drinking, and other factors. 
-## First,
+## First, 
 To start, I wanted to investigate the role of alcohol, and student choice for their college. The dataset did not have too much information regarding this, but in that column it had the decisions of either: Proximity to home, Course Choice, the college's reputation, or other. The other column definitely holds a lot of ambiguity and different reasonings, such as financial, or social, but the the choices did seem to articulate some sort of reputation/ character that might influence alcohol consumption and overall success. So to start, I wanted to investigate the role of choosing the college and class failure rates. 
 Here is a histogram showing this:
 {% include_relative Visualizations/student-fails.html %}
