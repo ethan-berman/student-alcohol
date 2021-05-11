@@ -16,7 +16,7 @@ Here is a histogram showing this:
 What's interesting to note here is that there is a slight correlation between course choice and failures, which might indicate many things, either that there wasn't enough motivation for the given course, or that the course choice was one of hard ability. Second in failure rates was the other column, which is interesting. 
 
 Now, let us look to the Daily Alcohol consumption of students and its correlation to reasoning for the college the student chose.
-{% include_relative Visualizations/student-proximity.html %}
+{% include_relative Visualizations/student-proximty.html %}
 Investigating this, we do see a correlation between picking the college based on its reputation and lower drinking rates, where the students that picked the school for reputation have less rates of high drinking habits. With that, to then investigate the other side, we do see rates where home and other reasoning have the highest rates of drinking, where depending on which level of the scale, those two choices alter between highest rates. With this information, it still seems unclear however if there is much correlation between these two different motives and connections. So let us theorize and investigate possible other contributors that could help with this notion of motivation and influence in relation to daily drinking habits. 
 
 ## Second:
