@@ -24,6 +24,11 @@ This bar chart shows the number of absences by each group of alcohol use.  Somew
 This histogram, for each group, shows the relative percentages of those in that category who do wish to pursue higher learning, and those who do not.  I expected to see a decrease in higher learning aspirations as alcohol consumption increased, and I was not surprised to see this relationship reflected in the data.
 {% include_relative Visualizations/higher.html %}
 
+### Global Alcohol Consumption
+This is an interactive Choropleth that shows the annual average per capita alcohol consumption of different countries around the world.  This is interesting, as we see that Portugal, the country from the other dataset, consumes 2.3 more liters of pure alcohol per year than the United States.  This suggests that while in the United States we may have similar effects as the data from Portugal show, but likely to a lesser extent as we consume less alcohol on average.
+{% include_relative Visualizations/world.html%}
+
+
 
 ## Coming Soon:
 In the final week of class, I want to find another data set that provides more information connecting the role of the parents on child alcohol use.  I am also curious about family history for alcoholism, and how that may affect the academic outcomes of their children.  For example, it appears that as high school students use alcohol more, they are less likely to want to go to college.  Going further, I am curious if those students who are using alcohol at higher rates have a family history of alcoholism, or if there are other factors that led to their situation.
