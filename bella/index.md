@@ -32,7 +32,7 @@ There are several challenges to overcome when working with his data. I summarize
 ### World alcohol consumption.
 
 Here is a plotly visualization for alcohol, total per capita(15+) consumption by country 2018.
-{% include_relative Visualization/alcohol.html %}
+{% include_relative Visualization/alcoholc.html %}
 
 As the graph shows, the average per capita alcohol consumption varies widely across the world. 
 There are big geographical differences: Alcohol consumption across North Africa and the Middle East is particularly low — in many countries like Pakistan and Syrian Arab Republic, close to zero. At the upper end of the scale, alcohol intake across Europe is highest at around 15 liters per person per year in the Czechia, Lithuania, and Latvia. 
@@ -69,4 +69,8 @@ This visualization from [CACTC](https://www.cortlandareactc.org/post/teen-drinki
 Compared to European countries, the US had the lowest teen drinking rate of all, except Iceland, within in the past 30 days. While only about 33% had at least one drink within the past 30 days in the U.S, European rates ranged from 42% teens drinking within the past 30 days in Norway and 80% teens having at least one drink in the past 30 days in Denmark and Austria.   
 
 In most European country, the legal drinking age is between 16-18. Iceland is the only one that has legal drinking age of 20. It is also the only European country with lowest teen drinking rate. 
+
+## Jupyter Notebook
+
+
 
