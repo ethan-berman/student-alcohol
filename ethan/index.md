@@ -6,7 +6,9 @@ I am interested in looking at how family dynamics impact student alcohol consump
 Additionally, I am interested in learning more about how the use of alcohol affects an individual and the various aspects of their lives.  I expect there to be a negative effect of alcohol use on various academic outputs, as alcohol is generally considered to be bad for productivity.
 ### Datasets:
 * [Student Alcohol Consumption](https://www.kaggle.com/uciml/student-alcohol-consumption)
+- This Dataset has information about student alcohol consumption in Portugal, and contains information about the family environments of the students
 * [Global Alcohol Consumption](https://data.world/fivethirtyeight/alcohol-consumption)
+- This Dataset from the World Health Organization contains information about the average annual per capita alcohol consumption of different countries in the world, separated by type of alcoholic beverage.
 
 ## Visualizations:
 
