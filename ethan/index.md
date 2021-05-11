@@ -39,5 +39,5 @@ This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on
 ![Visual](Visualizations/childbehavioral.jpeg)
 
 This [article](https://www.verywellmind.com/the-effects-of-parental-alcoholism-on-children-67233) talks about the many impacts that parental alcoholism can have on children.
-![Picture](Visualizations/parent_alc.pnggit )
+![Picture](Visualizations/parent_alc.png)
 This research relates to my next question, as there are clear psychological effects of alcoholism in the family.  In addition to a distorted attitude towards alcohol, other psychological issues created by alcoholism may potentially lead children to worse academic outcomes, even if they are not drinking at high levels.
