@@ -39,8 +39,8 @@ In the final week of class, I want to find another data set that provides more i
 
 ## Jupyter Notebooks
 I used a different notebook for each dataset that I used.
--[Student Alcohol Consumption](Visualizations/notebook.html)
--[Global Alcohol Consumption](Visualizations/notebook2.html)
+* [Student Alcohol Consumption](Visualizations/notebook.html)
+* [Global Alcohol Consumption](Visualizations/notebook2.html)
 
 
 ## Other Research
