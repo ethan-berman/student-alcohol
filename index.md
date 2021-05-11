@@ -1,9 +1,9 @@
 # **Welcome to Student Alcohol Consumption Data Visualization Page**
 
 Team Members:
-* [Bella Yang](bella): I will be investigating the alcohol consumption in European region and the correlation between school perfomance and the student alcohol comsumption in Portugal. 
+* [Bella Yang](bella): I will be investigating the alcohol consumption in European region and the correlation between school perfomance and the student alcohol comsumption in Portugal.
 * [Max Harvey](Max): I will be investigating student motivation and family life and its relationship to alcohol.
-* [Ethan Berman](ethan)
+* [Ethan Berman](ethan): I will be investigating the effects alcohol has on student outcomes, and how this varies around the world.
 * [Callie](callie)
 
 ## Alcohol Consumption Datasets:

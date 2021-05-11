@@ -10,6 +10,8 @@ Additionally, I am interested in learning more about how the use of alcohol affe
 * [Global Alcohol Consumption](https://data.world/fivethirtyeight/alcohol-consumption)
 -- This Dataset from the World Health Organization contains information about the average annual per capita alcohol consumption of different countries in the world, separated by type of alcoholic beverage.
 
+### Data Issues:
+- The dataset from the world health organization uses the names of countries, instead of the country codes which plotly accepts.  To get around this problem, I used a python library called [Country Converter](https://pypi.org/project/country-converter/).  This library takes a vector input of country names, and you can specify the desired output format.  I outputted to ISO 3 letter format, and then saved that to a new column on the dataframe.  I saved to a pickle file, and then read that pickle file into my Jupyter Notebook.  I had to use the library in a local python environment, since I could not get anaconda to install it in the Jupyter notebook.
 ## Visualizations:
 
 ### Parental Separation Vs. Cohabitation.
