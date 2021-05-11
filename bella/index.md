@@ -1,7 +1,6 @@
 # Welcome to Bella's Webpage
 
-
-## Focus of this page
+## Statement of interest
 
 I am interested in the per capita consumption of alcohol for 15+ people in the world. Our data was collected of the consumption of 15-22 year-old students in two secondary schools in Portugal. I feel that the legal drinking age in Europe is relatively low, so I want to see which countries in the world have higher per capita consumption of alcohol.
 
