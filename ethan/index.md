@@ -49,6 +49,7 @@ This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on
 
 This [article](https://www.verywellmind.com/the-effects-of-parental-alcoholism-on-children-67233) talks about the many impacts that parental alcoholism can have on children.
 ![Picture](Visualizations/parent_alc.png)
+
 This research relates to my next question, as there are clear psychological effects of alcoholism in the family.  In addition to a distorted attitude towards alcohol, other psychological issues created by alcoholism may potentially lead children to worse academic outcomes, even if they are not drinking at high levels.
 
 This [Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872611/) by NCBI discusses the role of culture in alcohol use.  It finds that cultural attitudes are strong predictors of level of drinking, which provides some insight as to why the global alcohol consumption differs so much from country to country, even when they are neighboring.  For example, France drinks the most wine, but does not drink the most alcohol.  France is also famous for its wine, so this makes sense.
