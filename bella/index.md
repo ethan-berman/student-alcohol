@@ -1,7 +1,7 @@
-# Bella's Webpage
+# Welcome to Bella's Webpage
 
 
-## Project
+## Focus of this page
 
 I am interested in the per capita consumption of alcohol for 15+ people in the world. Our data was collected of the consumption of 15-22 year-old students in two secondary schools in Portugal. I feel that the legal drinking age in Europe is relatively low, so I want to see which countries in the world have higher per capita consumption of alcohol.
 
@@ -29,7 +29,12 @@ There are several challenges to overcome when working with his data. I summarize
 Here is a plotly visualization for alcohol, total per capita(15+) consumption by country 2018.
 {% include_relative Visualization/alcohol.html %}
 
-The graph clrealy shows that European are has highes alcohol consumption and middle east area has the lowest alcohol consumption. European area has low drinking-age limitation, which makes their citizen start drink at teen. I saw the European area closer to look for their alcohol consumption information and changes over time with visualizations below. 
+As the graph shows, the average per capita alcohol consumption varies widely across the world. 
+There are big geographical differences: Alcohol consumption across North Africa and the Middle East is particularly low — in many countries like Pakistan and Syrian Arab Republic, close to zero. At the upper end of the scale, alcohol intake across Europe is highest at around 15 liters per person per year in the Czechia, Lithuania, and Latvia. 
+
+Only slightly behind the Eastern European countries are Western European countries – including Germany, France, Portugal, Ireland, and Belgiumm – at around 12 to 13 liters. Outside of Europe the only other countries in this category are Nigeria and Burkina Faso.
+
+Thoughout much of Europe, the legal drinking age is pretty low and ranges between 15 to 18, and often there isn't a legal drinking age at all. This makes their citizen starting to drink at teen. 
 
 ### European country alcohol consumption.
 
