@@ -33,12 +33,11 @@ This is an interactive Choropleth that shows the annual average per capita alcoh
 {% include_relative Visualizations/world.html%}
 
 
-
 ## Coming Soon:
 In the final week of class, I want to find another data set that provides more information connecting the role of the parents on child alcohol use.  I am also curious about family history for alcoholism, and how that may affect the academic outcomes of their children.  For example, it appears that as high school students use alcohol more, they are less likely to want to go to college.  Going further, I am curious if those students who are using alcohol at higher rates have a family history of alcoholism, or if there are other factors that led to their situation.
 
 ## Jupyter Notebooks
-I used a different notebook for each dataset that I used.
+I used a different notebook for each dataset that I used:
 * [Student Alcohol Consumption](Visualizations/notebook.html)
 * [Global Alcohol Consumption](Visualizations/notebook2.html)
 
