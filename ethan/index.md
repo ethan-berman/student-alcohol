@@ -14,7 +14,6 @@ Additionally, I am interested in learning more about how the use of alcohol affe
 - The dataset from the world health organization uses the names of countries, instead of the country codes which plotly accepts.  To get around this problem, I used a python library called [Country Converter](https://pypi.org/project/country-converter/).  This library takes a vector input of country names, and you can specify the desired output format.  I outputted to ISO 3 letter format, and then saved that to a new column on the dataframe.  I saved to a pickle file, and then read that pickle file into my Jupyter Notebook.  I had to use the library in a local python environment, since I could not get anaconda to install it in the Jupyter notebook.
 -  While I said I wanted to find a dataset that connected family history and alcoholism data, so I had to refocus on looking at how Alcohol use varies across the world, as this was the only data that I was able to find.
 
-
 ## Visualizations:
 
 ### Parental Separation Vs. Cohabitation.
@@ -37,6 +36,12 @@ This is an interactive Choropleth that shows the annual average per capita alcoh
 
 ## Coming Soon:
 In the final week of class, I want to find another data set that provides more information connecting the role of the parents on child alcohol use.  I am also curious about family history for alcoholism, and how that may affect the academic outcomes of their children.  For example, it appears that as high school students use alcohol more, they are less likely to want to go to college.  Going further, I am curious if those students who are using alcohol at higher rates have a family history of alcoholism, or if there are other factors that led to their situation.
+
+## Jupyter Notebooks
+I used a different notebook for each dataset that I used.
+-[Student Alcohol Consumption](Visualizations/notebook.html)
+-[Global Alcohol Consumption](Visualizations/notebook2.html)
+
 
 ## Other Research
 This visualization from [Marripedia](http://marripedia.org/effects.of.divorce.on.children.s.behavior) shows that children whose parents are separated have higher behavioral problem scores.
