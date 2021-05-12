@@ -8,7 +8,7 @@ When I came to the United States, I felt that the United States attaches great i
 
 My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends and has headaches and vomiting symptoms. But he has no way to change his behavior because he has never been very drunk. He started drinking at a young age. Until one time, he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
 
-The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential variables, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
+The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential factors, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
 
 ## Datasets
 I use these four datasets for my investigation:  
@@ -95,6 +95,9 @@ The graph shows gender differences on alcohol consumption in 2018. We see that i
 Overall, women's alcohol purchases are about four times lower than men's. This gender difference appears to be lowest in countries where the overall prevalence of drinking high. Where drinking prevalence is low-to-mid range, the prevalence of drinking in women tends to be significantly lower. 
 
 ## Conclusion
+
+In regards to the alcohol consumption being positively correlated with higher GDP per capita, it may be that a higher level of life quality leads to more income. People have more spare money to enjoy their life by drinking alcohol. Since we have not found a relationship between the legal drinking age and alcohol purchases, the high alcohol purchases in European countries may be due to regional culture or whether it is strictly related to regional management. It's not surprising that men buy far more alcohol than women globally. This may be due to the difference between men's and women's handling of stress, different preferences for drinks, and social influence.
+
 
 ## Jupyter Notebook
 
