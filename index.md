@@ -1,7 +1,7 @@
 # **Welcome to Student Alcohol Consumption Data Visualization Page**
 
 Team Members:
-* [Bella Yang](bella): I will be investigating the alcohol consumption in European region and the correlation between school perfomance and the student alcohol comsumption in Portugal.
+* [Bella Yang](bella): I will focus on two questions. First, what does the overview of alcohol purchases worldwide looks like with an in-depth analysis of the regions with the highest alcohol consumption? Second, do some potential factors have a specific relationship with alcohol purchases? There is a positive correlation between alcohol purchases and GDP; There is a negative correlation with the legal drinking age. And in terms of gender and alcohol purchases, men will buy more than women.
 * [Max Harvey](Max): I will be investigating student motivation and family life and its relationship to alcohol.
 * [Ethan Berman](ethan): I will be investigating the effects alcohol has on student outcomes, and how this varies around the world.
 * [Callie](callie)
