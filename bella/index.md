@@ -76,6 +76,8 @@ Compared to European countries, the US had the lowest teen drinking rate of all,
 
 In most European country, the legal drinking age is between 16-18. Iceland is the only one that has legal drinking age of 20. It is also the only European country with lowest teen drinking rate. 
 
+## Conclusion
+
 ## Jupyter Notebook
 
 
