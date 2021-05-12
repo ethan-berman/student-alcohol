@@ -98,8 +98,8 @@ Overall, women's alcohol purchases are about four times lower than men's. This g
 
 ## Jupyter Notebook
 
-*[World and Correlation Alcohol Consumption](Visualization/world.html)
-*[Europrean region Alcohol Consumption]
+* [World and Correlation Alcohol Consumption](Visualization/world.html)
+* [Europrean region Alcohol Consumption](Visualization/european.html)
 
 ## Other research
 
