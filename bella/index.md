@@ -58,6 +58,8 @@ Thoughout much of Europe, the legal drinking age is pretty low and ranges betwee
 
 Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 {% include_relative Visualization/europe.html %}
+{% include_relative Visualization/top5.html %}
+{% include_relative Visualization/bottom5.html %}
 
 The highest consumption is nearly ten times the lowest. The five countries with the highest alcohol consumption in 2018 are Czechia, Latvia, Austria, Lithuania, and Bulgaria. Their legal drinking ages are 18, 18, 18, 20, and 18. 2018 The five European countries with the lowest consumption in the year are Tajikistan, Turkey, Uzbekistan, Azerbaijan, and Israel. Their legal drinking ages are 18, 18, 20, 16, and 18. The legal drinking ages of his five countries are not higher——less than the lowest 5. I will study later whether the legal drinking age and some other factors are related to the purchase. 
 
