@@ -84,6 +84,8 @@ We see from the chart that there is some correlation between per capita GDP and 
 ### Alcohol consumption vs. legal drinking age 
 {% include_relative Visualization/age.html %}
 
+Does alcohol consumption increase as countries has lower legal drinking age? It seems like that European region has the lowest average legal drinking age and has highest alcohol consumption per capita. However, we see that there is not a distinct relationship between legal drinking age and alcohol consumption. 
+
 ### Alcohol consumption by sex
 {% include_relative Visualization/gender.html %}
 
@@ -95,6 +97,9 @@ Overall, women's alcohol purchases are about four times lower than men's. This g
 ## Conclusion
 
 ## Jupyter Notebook
+
+*[World and Correlation Alcohol Consumption](Visualization/world.html)
+*[Europrean region Alcohol Consumption]
 
 ## Other research
 
