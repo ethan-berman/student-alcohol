@@ -75,12 +75,19 @@ And everyone consumes the highest amount of alcohol. As well as alcohol is still
 ### Alcohol consumption vs. GDP per capita
 {% include_relative Visualization/gdp.html %}
 
+Does alcohol consumption increase as countries get richer? I hypothesized that people in rich countries have a better standard of living and income.They will have spare money to go to bars or buy and drink alcohol to enjoy life, but poor countries still need to solve the problem of food and clothingand alcohol purchases will be relatively low. 
+
+In the chart we see the relationship between average per capita alcohol consumption (in liters of pure alcohol of both sexes in 2018) versus gross domestic product (GDP) per capita, across countries.
+
+We see from the chart that there is some correlation between per capita GDP and alcohol consumption, but it is not strong. People within higher income brackets tend to drink more frequently. Countries with lower per capita GDP (below 10k), although some countries have high alcohol purchases, such as Uganda, Burkina Faso, and United Republic of Tanzania , But the per capita alcohol consumption are concentrated below 5 liters. In countries with higher per capita GDP (over 10 k), most countries buy alcohol at 5-15 liters per capita. This correlation is also likely to be influenced by other lifestyle determinants and habits. the UK ONS also report that when grouped by education status, those with a university tend to drink more in total and more frequently than those of lower education status. There are also differences when grouped by profession: individuals in managerial or professional positions tend to drink more frequently than those in intermediate or manual labour roles.
+
 ### Alcohol consumption vs. legal drinking age 
 {% include_relative Visualization/age.html %}
 
 ### Alcohol consumption by sex
 {% include_relative Visualization/gender.html %}
 
+This graph confirms my hypothesis about gender and alcohol consumption: Male actually buy more alcohol than Female.
 The graph shows gender differences on alcohol consumption in 2018. We see that in all countries men are more likely to drink than women.
 
 Overall, women's alcohol purchases are about four times lower than men's. This gender difference appears to be lowest in countries where the overall prevalence of drinking high. Where drinking prevalence is low-to-mid range, the prevalence of drinking in women tends to be significantly lower. 
