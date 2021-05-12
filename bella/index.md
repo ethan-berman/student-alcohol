@@ -10,9 +10,12 @@ My boyfriend’s uncle is a very alcoholic person, which has also become the rea
 
 The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential variables, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
 
-## Dataset
-* Here I compile the world alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main.A1039?lang=en)
-The data recoreded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in litters by countries and each beverage types. 
+## Datasets
+I use 5 different Datasets for my investigation: 
+
+* ["Recorded alcohol per capita consumption, from 2010"](https://apps.who.int/gho/data/node.main.A1039?lang=en)
+
+The data recorded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in liters by countries and detailed information about each beverage type.  
 
 * Here I compile the European region alcohol consumption by country data from the [WHO](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
 The data recorded alcohol per capita consimption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It caontains the column of alcohol per capita consumption in litters by European countries abd each beverage types. 
