@@ -13,7 +13,7 @@ The event that happened around me makes me interested in the amount of alcohol p
 ## Datasets
 I use 5 different Datasets for my investigation: 
 
-* ["Recorded alcohol per capita consumption, from 2010"](https://apps.who.int/gho/data/node.main.A1039?lang=en)
+[**Recorded alcohol per capita consumption, from 2010**](https://apps.who.int/gho/data/node.main.A1039?lang=en)
 
 The data recorded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in liters by countries and detailed information about each beverage type.  
 
