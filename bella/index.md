@@ -92,6 +92,9 @@ The graph shows gender differences on alcohol consumption in 2018. We see that i
 
 Overall, women's alcohol purchases are about four times lower than men's. This gender difference appears to be lowest in countries where the overall prevalence of drinking high. Where drinking prevalence is low-to-mid range, the prevalence of drinking in women tends to be significantly lower. 
 
+## Conclusion
+
+## Jupyter Notebook
 
 ## Other research
 
@@ -102,10 +105,4 @@ This visualization from [CACTC](https://www.cortlandareactc.org/post/teen-drinki
 Compared to European countries, the US had the lowest teen drinking rate of all, except Iceland, within in the past 30 days. While only about 33% had at least one drink within the past 30 days in the U.S, European rates ranged from 42% teens drinking within the past 30 days in Norway and 80% teens having at least one drink in the past 30 days in Denmark and Austria.   
 
 In most European country, the legal drinking age is between 16-18. Iceland is the only one that has legal drinking age of 20. It is also the only European country with lowest teen drinking rate. 
-
-## Conclusion
-
-## Jupyter Notebook
-
-
 
