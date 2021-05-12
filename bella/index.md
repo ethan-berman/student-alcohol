@@ -59,15 +59,16 @@ Thoughout much of Europe, the legal drinking age is pretty low and ranges betwee
 Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 {% include_relative Visualization/europe.html %}
 
-From 2000 to 2018, alcohol purchases in Europe experienced growth and decline. 2007 became a turning point. From 2005 to 2006, alcohol consumption increased rapidly. Later, in the year from 2008 to 2009, it experienced a rapid decline. Although alcohol consumption levels have been declining, Europe remains the region with the highest proportion of drinkers in the world
-And everyone consumes the highest amount of alcohol. As well as lcohol is still the most dangerous an important risk factor for poor health and premature death. Alcohol is The third risk factor for poor health more important than high cholesterol and overweight.
+The highest consumption is nearly ten times the lowest. The five countries with the highest alcohol consumption in 2018 are Czechia, Latvia, Austria, Lithuania, and Bulgaria. Their legal drinking ages are 18, 18, 18, 20, and 18. 2018 The five European countries with the lowest consumption in the year are Tajikistan, Turkey, Uzbekistan, Azerbaijan, and Israel. Their legal drinking ages are 18, 18, 20, 16, and 18. The legal drinking ages of his five countries are not higher——less than the lowest 5. I will study later whether the legal drinking age and some other factors are related to the purchase. 
 
 ### Eruopean regrion alcohol consumption over time
 
 The time series line graph shows the alcohol consumption changes over time. 
 {% include_relative Visualization/time.html %}
 
-From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that makes their alcohol consumption start decreasing. 
+From 2000 to 2018, alcohol purchases in Europe experienced growth and decline. 2007 became a turning point. From 2005 to 2006, alcohol consumption increased rapidly. Later, in the year from 2008 to 2009, it experienced a rapid decline. Although alcohol consumption levels have been declining, Europe remains the region with the highest proportion of drinkers globally.
+And everyone consumes the highest amount of alcohol. As well as alcohol is still the most dangerous and vital risk factor for poor health and premature death. Alcohol is The third risk factor for poor health, more important than high cholesterol and overweight.
+ 
 
 ### Alcohol consumption vs. GDP per capita
 {% include_relative Visualization/gdp.html %}
