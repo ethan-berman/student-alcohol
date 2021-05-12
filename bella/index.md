@@ -11,7 +11,7 @@ My boyfriend’s uncle is a very alcoholic person, which has also become the rea
 The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential variables, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
 
 ## Datasets
-I use 4 different Datasets for my investigation: 
+I use these four datasets for my investigation:  
 
 [**Total per capita (15+) consumption (in litres of pure alcohol) by country**](https://apps.who.int/gho/data/node.main.A1029SDG3?lang=en)
 
@@ -74,9 +74,12 @@ From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I
 ### Alcohol consumption vs. legal drinking age 
 {% include_relative Visualization/age.html %}
 
-### Alcohol consumption of male vs. female
+### Alcohol consumption by sex
 {% include_relative Visualization/gender.html %}
 
+The graph shows gender differences on alcohol consumption in 2018. We see that in all countries men are more likely to drink than women.
+
+Overall, women's alcohol purchases are about four times lower than men's. This gender difference appears to be lowest in countries where the overall prevalence of drinking high. Where drinking prevalence is low-to-mid range, the prevalence of drinking in women tends to be significantly lower. 
 
 
 ## Other research
