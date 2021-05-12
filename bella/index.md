@@ -59,9 +59,10 @@ Thoughout much of Europe, the legal drinking age is pretty low and ranges betwee
 Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 {% include_relative Visualization/europe.html %}
 
-We can know that the range of alcohol consumption in Europe is pretty large. Like Norway, iceland, and Sweden has lower alcohol consuption, which mathches with the reseach I did. 
+From 2000 to 2018, alcohol purchases in Europe experienced growth and decline. 2007 became a turning point. From 2005 to 2006, alcohol consumption increased rapidly. Later, in the year from 2008 to 2009, it experienced a rapid decline. Although alcohol consumption levels have been declining, Europe remains the region with the highest proportion of drinkers in the world
+And everyone consumes the highest amount of alcohol. As well as lcohol is still the most dangerous an important risk factor for poor health and premature death. Alcohol is The third risk factor for poor health more important than high cholesterol and overweight.
 
-### Time series of Eruopean regrion alcohol consumption 
+### Eruopean regrion alcohol consumption over time
 
 The time series line graph shows the alcohol consumption changes over time. 
 {% include_relative Visualization/time.html %}
