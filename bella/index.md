@@ -84,7 +84,7 @@ We see from the chart that there is some correlation between per capita GDP and 
 ### Alcohol consumption vs. legal drinking age 
 {% include_relative Visualization/age.html %}
 
-Does alcohol consumption increase as countries has lower legal drinking age? It seems like that European region has the lowest average legal drinking age and has highest alcohol consumption per capita. However, we see that there is not a distinct relationship between legal drinking age and alcohol consumption. 
+Does alcohol consumption increase as countries have lower legal drinking age? It seems like the European region has the lowest average legal drinking age and has the highest alcohol consumption per capita. However, we see no distinct relationship between the legal drinking age and alcohol consumption. Except for countries with no legal drinking age limit or total baned, the legal alcohol drinking age in other countries is around 18 years old. Although the legal drinking age in some countries is relatively low, their alcohol consumption has not increased significantly.
 
 ### Alcohol consumption by sex
 {% include_relative Visualization/gender.html %}
