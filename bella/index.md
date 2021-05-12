@@ -12,13 +12,19 @@ The event that happened around me makes me interested in the amount of alcohol p
 
 ## Datasets
 I use 5 different Datasets for my investigation: 
+[**Total per capita (15+) consumption (in litres of pure alcohol) by country**](https://apps.who.int/gho/data/node.main.A1029SDG3?lang=en)
+
+The dataset recorded alcohol consumption in liters by country of 2000, 2005, 2010, 2015, and 2018. In each year columns, it contains the alcohol consumption per capit of both sexes, male and female. 
 
 [**Recorded alcohol per capita consumption, from 2010**](https://apps.who.int/gho/data/node.main.A1039?lang=en)
 
-The data recorded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in liters by countries and detailed information about each beverage type.  
+The dataset recorded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in liters by countries and detailed information about each beverage type.  
 
-* Here I compile the European region alcohol consumption by country data from the [WHO](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
-The data recorded alcohol per capita consimption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It caontains the column of alcohol per capita consumption in litters by European countries abd each beverage types. 
+[**Recorded alcohol per capita consumption, 1960 to 2018**](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
+
+The dataset recorded alcohol per capita consumption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It contains the column of alcohol per capita consumption in liters by European countries and each beverage type. 
+
+
 
 ## Challenges with WHO Data
 
