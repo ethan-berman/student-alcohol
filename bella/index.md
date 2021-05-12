@@ -11,20 +11,23 @@ My boyfriend’s uncle is a very alcoholic person, which has also become the rea
 The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential variables, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
 
 ## Datasets
-I use 5 different Datasets for my investigation: 
+I use 3 different Datasets for my investigation: 
 
 [**Total per capita (15+) consumption (in litres of pure alcohol) by country**](https://apps.who.int/gho/data/node.main.A1029SDG3?lang=en)
 
-The dataset recorded alcohol consumption in liters by country of 2000, 2005, 2010, 2015, and 2018. In each year columns, it contains the alcohol consumption per capit of both sexes, male and female. 
+This dataset recorded alcohol consumption in liters by country of 2000, 2005, 2010, 2015, and 2018. In each year columns, it contains the alcohol consumption per capit of both sexes, male and female. 
 
-[**Recorded alcohol per capita consumption, from 2010**](https://apps.who.int/gho/data/node.main.A1039?lang=en)
+[**Historical GDP per Capita by Country, 1960-2018**](https://apps.who.int/gho/data/node.main.A1039?lang=en)
 
-The dataset recorded alcohol per capita consumption from 2010 to 2018. It contains alcohol per capita consumption in liters by countries and detailed information about each beverage type.  
+This dataset includes data about historical GDP per capita by country form 1960 to 2018. It shows from highest per capita GDP country to the lowest one. At the most basic interpretation, per capita GDP shows how much economic production value can be attributed to each individual citizen. 
 
-[**Recorded alcohol per capita consumption, 1960 to 2018**](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
+[**Recorded alcohol per capita consumption, 1960-2018**](https://apps.who.int/gho/data/node.main-euro.A1022?lang=en&showonly=GISAH)
 
-The dataset recorded alcohol per capita consumption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It contains the column of alcohol per capita consumption in liters by European countries and each beverage type. 
+This dataset recorded alcohol per capita consumption from 1960-1979, 1980-1999, 2000-2009, and after 2010. It contains the column of alcohol per capita consumption in liters by European countries and each beverage type. 
 
+[**List of countries by population (United Nations)**](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations))
+
+This dataset contains a list of countries and other inhabited territories of the world by total population of 2018 and 2019, based on estimates published by the United Nations in the 2019 revision of World Population Prospects.
 
 
 ## Challenges with WHO Data
