@@ -2,13 +2,13 @@
 
 ## Statement of interest
 
-Drinking is a controversial issue. Drinking in moderation is good for your health, but excessive drinking can harm your health. I live in China, and the legal age for buying alcohol in China is 18 years old, but in fact many young people younger than 18 have tried Start drinking. Few places will check ID.
+Drinking is a controversial issue. Drinking in moderation is good for your health, but excessive drinking can harm your health. I grew up in China, and the legal age for buying alcohol in China is 18 years old, but many young people younger than 18 have tried to tart drinking. Few places will check ID.
 
-When I came to the United States, I felt that the United States attaches great importance to the legal drinking age. Whether in restaurants or supermarkets, the date of birth on the ID will be strictly checked. This is a good way to control drinking.
+When I came to the United States, I felt that the United States attaches great importance to the legal drinking age. Whether in restaurants or supermarkets, the date of birth on the ID will be carefully checked, which is a good way to control drinking.
 
-My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends, and has headaches and vomiting symptoms. But he has no way to change his behavior, because he has never been very drunk. He started drinking at a young age. Until one time he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
+My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends and has headaches and vomiting symptoms. But he has no way to change his behavior because he has never been very drunk. He started drinking at a young age. Until one time, he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
 
-This makes me interested in the amount of alcohol purchased in the world. I want to study the relationship between the average alcohol purchase in a country and the legal drinking age, national GDP, gender, and what is the world's death rate due to alcohol.
+The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential variables, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
 
 ## Dataset
 * Here I compile the world alcohol comsumption by country data from the [WHO](https://apps.who.int/gho/data/node.main.A1039?lang=en)
@@ -27,9 +27,9 @@ There are several challenges to overcome when working with his data. I summarize
 
 * When I did merging, how of parameter only has 'left', 'right', 'outer', 'inner', and 'cross'. Thoes cannot satisefy my merging requriment, so finally I use pd.concat to combine these data. And I also transpose data frame without index, since the column of original data is year and row of original data is countries. It will be easier to make visualization after swap rows and columns. It took me a long time to fix. 
 
-## Visualization
+## Alcohol Consumption Visualization
 
-### World alcohol consumption.
+### World alcohol consumption
 
 Here is a plotly visualization for alcohol, total per capita(15+) consumption by country 2018.
 {% include_relative Visualization/alcoholc.html %}
@@ -41,24 +41,21 @@ Only slightly behind the Eastern European countries are Western European countri
 
 Thoughout much of Europe, the legal drinking age is pretty low and ranges between 15 to 18, and often there isn't a legal drinking age at all. This makes their citizen starting to drink at teen. 
 
-### European country alcohol consumption.
+### European country alcohol consumption
 
 Here is a line graph visualization for alcohol, total per capita(15+) consumption by European country from 2000 to 2018. 
 {% include_relative Visualization/europe.html %}
 
 We can know that the range of alcohol consumption in Europe is pretty large. Like Norway, iceland, and Sweden has lower alcohol consuption, which mathches with the reseach I did. 
 
-### Time series of Eruopean regrion alcohol consumption. 
+### Time series of Eruopean regrion alcohol consumption 
 
 The time series line graph shows the alcohol consumption changes over time. 
 {% include_relative Visualization/time.html %}
 
 From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that makes their alcohol consumption start decreasing. 
 
-## Comming soon
 
-In the final week of the class, I will focus on our Portugal student alcohol consumption data and figure out the correlation between school performan and alcohol consumption. And my hypothesis for this part is that the success of school is negatively correlative with alcohol consumption. 
-Additional, I will do some research and figure out why the alcohol consuption decreased from 2007. Has the European government issued any policy and did the price change of alcohol have an impact on it?
 
 ## Other research
 
