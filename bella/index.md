@@ -55,6 +55,15 @@ The time series line graph shows the alcohol consumption changes over time.
 
 From 2000 to 2018, the total alcohol consumption started decreasing from 2007. I really interested in what happened in 2007 that makes their alcohol consumption start decreasing. 
 
+### Alcohol consumption vs. GDP per capita
+{% include_relative Visualization/gdp.html %}
+
+### Alcohol consumption vs. legal drinking age 
+{% include_relative Visualization/age.html %}
+
+### Alcohol consumption of male vs. female
+{% include_relative Visualization/gender.html %}
+
 
 
 ## Other research
