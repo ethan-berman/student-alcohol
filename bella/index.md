@@ -2,14 +2,13 @@
 
 ## Statement of interest
 
-Drinking is a controversial issue. Drinking in moderation is good for your health, but excessive drinking can harm your health. I grew up in China, and the legal age for buying alcohol in China is 18 years old, but many young people younger than 18 have tried to tart drinking. Few places will check ID.
+Drinking is a controversial issue. Drinking in moderation is good for your health, but excessive drinking can harm your health. I grew up in China, and the legal age for buying alcohol in China is 18 years old, but many young people younger than 18 have tried to drink. Few places will check ID.
 
 When I came to the United States, I felt that the United States attaches great importance to the legal drinking age. Whether in restaurants or supermarkets, the date of birth on the ID will be carefully checked, which is a good way to control drinking.
 
 My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends and has headaches and vomiting symptoms. But he has no way to change his behavior because he has never been very drunk. He started drinking at a young age. Until one time, he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
 
-The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential factors, like the legal drinking age, national GDP per capita, and gender. Finally, I will do the reseach on how the world's death rate due to alcohol looks like.
-
+The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential factors, like the legal drinking age, national GDP per capita, and gender. 
 ## Datasets
 I use these four datasets for my investigation:  
 
@@ -50,9 +49,9 @@ Here is a plotly visualization for alcohol, total per capita(15+) consumption by
 As the graph shows, the average per capita alcohol consumption varies widely across the world. 
 There are big geographical differences: Alcohol consumption across North Africa and the Middle East is particularly low — in many countries like Pakistan and Syrian Arab Republic, close to zero. At the upper end of the scale, alcohol intake across Europe is highest at around 15 liters per person per year in the Czechia, Lithuania, and Latvia. 
 
-Only slightly behind the Eastern European countries are Western European countries – including Germany, France, Portugal, Ireland, and Belgiumm – at around 12 to 13 liters. Outside of Europe the only other countries in this category are Nigeria and Burkina Faso.
+Only slightly behind the Eastern European countries are Western European countries – including Germany, France, Portugal, Ireland, and Belgium – at around 12 to 13 liters. Outside of Europe the only other countries in this category are Nigeria and Burkina Faso.
 
-Thoughout much of Europe, the legal drinking age is pretty low and ranges between 15 to 18, and often there isn't a legal drinking age at all. This makes their citizen starting to drink at teen. 
+Thoughout much of Europe, the legal drinking age is pretty low and ranges between 15 to 18, and often there isn't a legal drinking age at all. I guess his probably makes their citizen drink at teen. 
 
 ### European country alcohol consumption
 
