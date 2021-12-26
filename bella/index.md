@@ -6,7 +6,7 @@ Drinking is a controversial issue. Drinking in moderation is good for your healt
 
 When I came to the United States, I felt that the United States attaches great importance to the legal drinking age. Whether in restaurants or supermarkets, the date of birth on the ID will be carefully checked, which is a good way to control drinking.
 
-My boyfriend’s uncle is a very alcoholic person, which has also become the reason for his death. He often gets drunk with friends and has headaches and vomiting symptoms. But he has no way to change his behavior because he has never been very drunk. He started drinking at a young age. Until one time, he drank too much, causing sudden alcoholism. In the end, the rescue failed and died. I believe that there are many cases of alcohol causing illness or death every year.
+My uncle is a very alcoholic person. He often gets drunk with friends and end up with headaches and vomiting. But he never realized the harm of drinking. Until one time, he drank too much and caused sudden alcoholism; he passed away because of this. I believe that there are many cases of alcohol causing illness or death every year.
 
 The event that happened around me makes me interested in the amount of alcohol purchased in the world. I will focus on the overview of the alcohol consumption situation of the world and the European region. Additionally, the relationship between the average alcohol purchase in the country and some potential factors, like the legal drinking age, national GDP per capita, and gender. 
 ## Datasets
